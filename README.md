@@ -1,0 +1,4 @@
+SampleColorListView
+===================
+
+A sample project
